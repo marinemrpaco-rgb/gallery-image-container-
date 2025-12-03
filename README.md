@@ -1,1 +1,1 @@
-https://marinemrpaco-rgb.github.io/gallery-image-container-/Repository image
+https://marinemrpaco-rgb.github.io/gallery-image-container-/ "Repository image"
